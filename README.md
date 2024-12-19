@@ -1,5 +1,4 @@
-## Hi there 👋
-<!--mana agent 
+mana agent 
 A new AI agent framework/intelligent investment decision-making.
 
 
