@@ -20,10 +20,10 @@ Basic Usage
 from agnes import Agnes
 
 # Initialize
-agnes = Agnes()
+MANA = MANA ()
 
 # Load model 
-model = agnes.load_model("my-model")
+model = MANA .load_model("my-model")
 
 # Predict
 result = model.predict(data)
