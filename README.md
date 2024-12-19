@@ -1,3 +1,4 @@
+![image](https://github.com/MANAAGENT/manaagent/issues/1)
 mana agent 
 A new AI agent framework/intelligent investment decision-making.
 
