@@ -328,7 +328,7 @@ model_versioning: enabled
 🤝 Contributing
 Development Setup
 # Clone repository
-git clone https://github.com/agnes-ai/agnes
+git clone (https://github.com/MANAAGENT/manaagent)
 cd agnes
 
 # Create virtual environment
