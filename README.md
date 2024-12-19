@@ -1,5 +1,4 @@
 ## Hi there 👋
-!JAEG 
 <!--mana agent 
 A new AI agent framework/intelligent investment decision-making.
 
