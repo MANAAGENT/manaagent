@@ -1,4 +1,4 @@
-![image](https://github.com/MANAAGENT/manaagent/issues/2#issue-2750782117)
+![image]((https://github.com/user-attachments/assets/703ff3d9-4a17-4302-97cc-824fb9652b3e)
 mana agent 
 A new AI agent framework/intelligent investment decision-making.
 
