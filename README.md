@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/703ff3d9-4a17-4302-97cc-824fb9652b3e)
-mana agent 
-A new AI agent framework/intelligent investment decision-making.
+The first AI trading robot on Solana
 
 
 📋 Table of Contents
